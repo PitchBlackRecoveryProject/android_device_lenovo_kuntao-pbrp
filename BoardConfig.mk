@@ -90,3 +90,5 @@ TARGET_USE_CUSTOM_LUN_FILE_PATH := /sys/devices/platform/msm_hsusb/gadget/lun%d/
 # Abuse unified device and system.prop to match props for OTA compatibility
 TARGET_UNIFIED_DEVICE := true
 
+#OFFICIAL
+PB_OFFICIAL := true
